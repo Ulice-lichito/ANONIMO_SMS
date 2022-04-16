@@ -6,14 +6,14 @@ Créditos al creador Machine404 yo solo lo traduje al español
 
 # Instalación: 
      1. Para usuarios de Linux: 
-        a) git clone https://github.com/machine1337/fake-sms 
-        b) cd fake-sms luego chmod +x run.sh 
+        a) git clone https://github.com/Ulice-lichito/ANONIMO_SMS 
+        b) cd ANONIMO_SMS luego chmod +x run.sh 
         
      2. Para usuarios de Termux: 
         a) pkg update && pkg upgrade 
         b) pkg install git 
-        c) git clone https://github.com/machine1337/fake-sms 
-        d) cd fake-sms luego chmod +x run.sh 
+        c) git clone https://github.com/Ulice-lichito/ANONIMO_SMS 
+        d) cd ANONIMO_SMS luego chmod +x run.sh 
         
 # Uso: 
      Simplemente escriba: bash run.sh 
@@ -46,5 +46,6 @@ https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
      
 # Autor:
  una. https://www.facebook.com/pakhack01 
- 
+
+ # Modificador
  b. https://www.facebook.com/ulice.ramirezruiz.9
